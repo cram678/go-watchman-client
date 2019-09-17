@@ -1,7 +1,7 @@
 package watchman
 
 import (
-	"github.com/sjansen/watchman/protocol"
+	"github.com/replit/go-watchman-client/protocol"
 )
 
 // Client provides a high-level interface to Watchman.

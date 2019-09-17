@@ -1,4 +1,4 @@
-module github.com/sjansen/watchman
+module github.com/replit/go-watchman-client
 
 require (
 	github.com/Microsoft/go-winio v0.4.14

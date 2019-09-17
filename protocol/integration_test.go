@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/sjansen/watchman/protocol"
+	"github.com/replit/go-watchman-client/protocol"
 )
 
 const subName = "TANSTAAFL"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sjansen/watchman/protocol"
+	"github.com/replit/go-watchman-client/protocol"
 )
 
 func main() {

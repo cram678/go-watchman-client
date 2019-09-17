@@ -16,7 +16,7 @@ import (
 	"github.com/fortytw2/leaktest"
 	"github.com/stretchr/testify/require"
 
-	"github.com/sjansen/watchman"
+	"github.com/replit/go-watchman-client"
 )
 
 const pause = 250 * time.Millisecond

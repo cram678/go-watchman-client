@@ -3,7 +3,7 @@ package watchman
 import (
 	"time"
 
-	"github.com/sjansen/watchman/protocol"
+	"github.com/replit/go-watchman-client/protocol"
 )
 
 // A Watch represents a directory, or watched root, that Watchman is watching for changes.

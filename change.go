@@ -1,7 +1,7 @@
 package watchman
 
 import (
-	"github.com/sjansen/watchman/protocol"
+	"github.com/replit/go-watchman-client/protocol"
 )
 
 // A ChangeNotification represents changes two one or more filesystem entries.
