@@ -1,5 +1,5 @@
 # Go Watchman Client
-
+[![Run on Repl.it](https://repl.it/badge/github/replit/go-watchman-client)](https://repl.it/github/replit/go-watchman-client)
 [![GoDoc](https://godoc.org/github.com/sjansen/watchman?status.svg)](https://godoc.org/github.com/sjansen/watchman)
 [![Latest Release](https://img.shields.io/github/release/sjansen/watchman.svg)](https://github.com/sjansen/watchman/releases)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
